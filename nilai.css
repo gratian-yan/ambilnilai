@@ -1,0 +1,165 @@
+.kepala{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	display: flex;
+	justify-content: space-between;	
+	margin: auto
+}
+.menu{
+	width: 100%;
+	height: 300px;
+	background-color: skyblue;
+	display: flex;
+	/*padding-left: 500px;*/
+	padding-top: 50px;
+}
+#tls-atas{
+	color: aliceblue;	
+}
+.kanan-atas{
+	width: 3%;
+	height: 30px;
+	background-color: skyblue;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+#kanan-atas{
+	text-align: center;
+	color: white;
+	margin: auto;
+	
+}
+.foto1{
+	width: 10%;
+	height: 250px;
+	background-color: whitesmoke;
+	margin-left: 500px;
+}
+.data-diri{
+	text-align: center;
+}
+#data-diri1{
+	margin-left: 40px;
+}
+#sta-diri{
+	margin-left: 30px;
+}
+.tentang-saya{
+	width: 5%;
+	height: 20px;
+	background-color: black;
+	margin-top: 180px;
+}
+#ttg-sy{
+	color: white;
+	margin: auto;
+}
+
+.bungkus1{
+	width: 40%;
+	height: 300px;
+	/*background-color: aqua;*/
+	justify-content: space-around;
+	display: flex;
+	margin: auto;
+	padding-top: 30px;
+}
+.foto2{
+	width: 40%;
+	height: 250px;
+	background-color: black;
+
+}
+.ket-2{
+	width: 55%;
+	height: 250px;
+	background-color: purple;
+}
+.bungkus2{
+	width: 60%;
+	height: 300px;
+	/*background-color: firebrick;*/
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 30px;
+}
+.vtyt3{
+	width: 55%;
+	height: 250px;
+	background-color:slategrey;
+}
+.ket3{
+	width: 40%;
+	height: 250px;
+	/*background-color: blue;*/	
+}
+.tls3{
+	width: 80%;
+	height: 38px;
+	background-color: paleturquoise;
+	margin: auto;
+}
+#ket3{
+	text-align: center;
+	margin: auto;
+}
+.lingkaran{
+	width: 100%;
+	height: 350px;
+	/*background-color: firebrick;*/
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+}
+.lingkaran1{
+	width: 15%;
+	height: 230px;
+	background-color: lightskyblue;
+	margin: auto;
+	border-top-right-radius: 230px;
+	border-top-left-radius: 230px;
+	border-bottom-left-radius: 230px;
+	border-bottom-right-radius: 230px;
+}
+.Nama{
+	
+	text-align: center;
+/*	margin-top: 230px;*/
+}
+.tamnelbwh{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+}
+.tamnel{
+	color: gray;
+	text-align: center;
+}
+.poto{
+	width: 100%;
+	height: 250px;
+}
+.yt{
+	width: 100%;
+	height: 250px;	
+}
+#ket3{
+	text-align: center;
+}
+.kageno{
+	width: 100%;
+	height: 250px;
+}
+.ket2{
+	text-align: center;
+}
+.donghua{
+	width: 100%;
+	height: 230px;
+	border-top-right-radius: 230px;
+	border-top-left-radius: 230px;
+	border-bottom-left-radius: 230px;
+	border-bottom-right-radius: 230px;
+}
